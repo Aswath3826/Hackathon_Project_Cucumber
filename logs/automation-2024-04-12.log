@@ -1,0 +1,50 @@
+20:01:24.079 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:01:24.103 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+20:01:24.105 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+20:01:24.106 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+20:01:24.106 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+20:01:24.107 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+20:01:24.107 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+20:01:24.108 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+20:01:24.108 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+20:01:24.108 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+20:01:24.109 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+20:01:24.113 [main] ERROR factory.Base_Class - TC003 Test Failed..
+20:01:24.113 [main] DEBUG factory.Base_Class - .......Application Logs Ended for TC_003.......
+20:01:24.113 [main] INFO  factory.Base_Class - **** End TC_003_Validate_Gift_Cards ****
+20:01:26.806 [main] INFO  factory.Base_Class - -----------Driver setup done with chrome browser------------------
+20:01:31.946 [main] DEBUG factory.Base_Class - .......Application Logs Started for TC_003.......
+20:01:31.946 [main] INFO  factory.Base_Class - **** Start TC_003_Validate_Gift_Cards ****
+20:01:34.253 [main] INFO  factory.Base_Class - Clicked Gift Cards
+20:01:34.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:01:34.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:01:34.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:01:34.269 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:01:34.376 [main] INFO  factory.Base_Class - Clicked Birthday Anniversary
+20:01:34.505 [main] INFO  factory.Base_Class - Set Rupees
+20:01:34.574 [main] INFO  factory.Base_Class - Clicked Next
+20:01:34.720 [main] INFO  factory.Base_Class - Set Recipient Name Value
+20:01:34.804 [main] INFO  factory.Base_Class - Set Recipient Email Value
+20:01:34.883 [main] INFO  factory.Base_Class - Set Recipient Mobile Number Value
+20:01:34.981 [main] INFO  factory.Base_Class - Set Customer Name Value
+20:01:35.103 [main] INFO  factory.Base_Class - Set Customer Email Value
+20:01:35.213 [main] INFO  factory.Base_Class - Set Customer Mobile Value
+20:01:35.311 [main] INFO  factory.Base_Class - Set Customer Address Value
+20:01:35.388 [main] INFO  factory.Base_Class - Set Zipcode Value
+20:01:36.508 [main] INFO  factory.Base_Class - Clicked Submit
+20:01:37.554 [main] INFO  factory.Base_Class - Payment Section Present
+20:01:38.570 [main] INFO  factory.Base_Class - Scrolled to Payment Section
+20:01:38.575 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:01:38.577 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:01:38.577 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:01:38.585 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:01:38.599 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+20:01:38.601 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+20:01:38.602 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+20:01:38.602 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+20:01:38.604 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+20:01:38.604 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+20:01:38.605 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+20:01:38.605 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+20:01:38.605 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+20:01:38.606 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'

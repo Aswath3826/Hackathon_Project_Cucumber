@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 208.2 s <<< FAILURE! -- in testRunner.TestRunner
+Validate GiftCard DataDriven with Excel.Validating giftCard with valid,invalid inputs #2 -- Time elapsed: 36.63 s <<< FAILURE!
+java.lang.AssertionError: 
+Section Element Not found: no such element: Unable to locate element: {"method":"xpath","selector":"//section[@class = '_14QEd _1QpDs']"}
+  (Session info: chrome=120.0.6099.130)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bc8b6518131efd7be9d6d49f82d34026, findElement {using=xpath, value=//section[@class = '_14QEd _1QpDs']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.130, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55488}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55488/devtoo..., se:cdpVersion: 120.0.6099.130, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc8b6518131efd7be9d6d49f82d34026
+	at org.junit.Assert.fail(Assert.java:89)
+	at step_Definitions.TS003_Validate_Gift_Cards.user_should_be_redirected_to_payment_page_by_passing_all_details_with_excel_row(TS003_Validate_Gift_Cards.java:106)
+	at ✽.user should be redirected to payment page by passing all details with excel row "2"(file:///C:/Users/2318646/eclipse-workspace/Hackathon_Project_Cucumber/./Feature_Files/TS003_Val_GiftCards.feature:5)
+
+Validate GiftCard DataDriven with Excel.Validating giftCard with valid,invalid inputs #4 -- Time elapsed: 33.87 s <<< FAILURE!
+java.lang.AssertionError: 
+Section Element Not found: no such element: Unable to locate element: {"method":"xpath","selector":"//section[@class = '_14QEd _1QpDs']"}
+  (Session info: chrome=120.0.6099.130)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bd51cabb1b7a6fc74dff1ec77c3a2e40, findElement {using=xpath, value=//section[@class = '_14QEd _1QpDs']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.130, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55630}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55630/devtoo..., se:cdpVersion: 120.0.6099.130, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bd51cabb1b7a6fc74dff1ec77c3a2e40
+	at org.junit.Assert.fail(Assert.java:89)
+	at step_Definitions.TS003_Validate_Gift_Cards.user_should_be_redirected_to_payment_page_by_passing_all_details_with_excel_row(TS003_Validate_Gift_Cards.java:106)
+	at ✽.user should be redirected to payment page by passing all details with excel row "4"(file:///C:/Users/2318646/eclipse-workspace/Hackathon_Project_Cucumber/./Feature_Files/TS003_Val_GiftCards.feature:5)
+

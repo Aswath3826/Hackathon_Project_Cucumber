@@ -1,0 +1,40 @@
+20:01:38.607 [main] DEBUG factory.Base_Class - .......Application Logs Ended for TC_003.......
+20:01:38.611 [main] INFO  factory.Base_Class - **** End TC_003_Validate_Gift_Cards ****
+20:01:41.053 [main] INFO  factory.Base_Class - -----------Driver setup done with chrome browser------------------
+20:01:46.768 [main] DEBUG factory.Base_Class - .......Application Logs Started for TC_003.......
+20:01:46.768 [main] INFO  factory.Base_Class - **** Start TC_003_Validate_Gift_Cards ****
+20:01:48.641 [main] INFO  factory.Base_Class - Clicked Gift Cards
+20:01:48.649 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:01:48.650 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:01:48.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:01:48.665 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:01:48.808 [main] INFO  factory.Base_Class - Clicked Birthday Anniversary
+20:01:48.965 [main] INFO  factory.Base_Class - Set Rupees
+20:01:49.087 [main] INFO  factory.Base_Class - Clicked Next
+20:01:49.257 [main] INFO  factory.Base_Class - Set Recipient Name Value
+20:01:49.407 [main] INFO  factory.Base_Class - Set Recipient Email Value
+20:01:49.549 [main] INFO  factory.Base_Class - Set Recipient Mobile Number Value
+20:01:49.648 [main] INFO  factory.Base_Class - Set Customer Name Value
+20:01:49.755 [main] INFO  factory.Base_Class - Set Customer Email Value
+20:01:49.873 [main] INFO  factory.Base_Class - Set Customer Mobile Value
+20:01:49.974 [main] INFO  factory.Base_Class - Set Customer Address Value
+20:01:50.052 [main] INFO  factory.Base_Class - Set Zipcode Value
+20:01:51.180 [main] INFO  factory.Base_Class - Clicked Submit
+20:01:52.242 [main] INFO  factory.Base_Class - Payment Section Present
+20:01:53.272 [main] INFO  factory.Base_Class - Scrolled to Payment Section
+20:01:53.276 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:01:53.277 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:01:53.277 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:01:53.285 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:01:53.298 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+20:01:53.299 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+20:01:53.301 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+20:01:53.301 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+20:01:53.304 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+20:01:53.304 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+20:01:53.305 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+20:01:53.305 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+20:01:53.305 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+20:01:53.307 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+20:01:53.310 [main] DEBUG factory.Base_Class - .......Application Logs Ended for TC_003.......
+20:01:53.310 [main] INFO  factory.Base_Class - **** End TC_003_Validate_Gift_Cards ****
